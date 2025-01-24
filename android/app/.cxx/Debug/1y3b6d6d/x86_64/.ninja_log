@@ -1,0 +1,23 @@
+# ninja log v5
+1649	1728	1737737724527038498	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/build/intermediates/cxx/Debug/1y3b6d6d/obj/x86_64/libappmodules.so	cafb224959ad8215
+3	1649	1737737724441733232	CMakeFiles/appmodules.dir/OnLoad.cpp.o	f5bfde75cea53f38
+0	16	0	clean	8937be188f1a241f
+3	1513	1737737724308802551	CMakeFiles/appmodules.dir/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	97e5ac990bf33b7e
+0	23	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+27	90	1737740993111531885	build.ninja	d4fb76fcaf8517cf
+0	20	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+1	21	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+0	21	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+1	21	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+1	17	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+1	24	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+1	25	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+0	25	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+0	22	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+0	31	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+0	80	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+0	24	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+1	24	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+0	21	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+0	25	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd
+0	35	0	/Users/nikman/ada/Developer/capstone_project/front_end_scan2save1/android/app/.cxx/Debug/1y3b6d6d/x86_64/CMakeFiles/cmake.verify_globs	85edeca5bb7209cd

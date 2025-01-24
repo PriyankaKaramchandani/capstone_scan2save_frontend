@@ -1,0 +1,63 @@
+# Node.js and React Native
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# React Native / Expo build artifacts
+android/app/build/
+ios/build/
+
+# React Native packager
+.packager/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Android Studio
+.idea/
+*.iml
+
+# Expo (if you're using Expo)
+.expo/
+.expo-shared/
+
+# Debug and release builds for Android
+android/build/
+android/.gradle/
+
+# Build outputs
+/dist/
+build/
+*.apk
+*.aab
+
+# React Native specific
+*.log
+
+# Firebase key
+firebase_admin_SDK_key.json
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Build output
+/build/
+/dist/
+android/app/.cxx/
+
+# IDE settings
+*.iml
+*.suo
+*.user
+*.workspace
+
+# System files
+.DS_Store
+Thumbs.db
